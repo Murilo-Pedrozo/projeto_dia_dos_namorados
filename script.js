@@ -71,7 +71,7 @@ function explosaoDeCoracoes() {
 
   setTimeout(() => {
     clearInterval(intervalo);
-  }, 7000);
+  }, 5000);
 }
 
 
