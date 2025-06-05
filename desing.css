@@ -212,8 +212,8 @@ main {
 }
 
 
-@media (max-width: 300px) {
-   button {
+@media (max-width: 600px) {
+  button {
     font-size: 1em;
     padding: 21px 18px;
     box-shadow: 2px 2px 6px black;
