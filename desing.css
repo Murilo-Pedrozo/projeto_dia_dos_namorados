@@ -220,11 +220,17 @@ main {
     color: var(--cor5);
   }
 
-  #data {
+ #data {
   font-size: 1.6em;
   color: var(--cor1);
   font-weight: 900;
   margin-bottom: 15px;
+}
+
+#contador {
+  font-size: 1.2em;
+  color: var(--cor1);
+  text-align: justify;
 }
   
   main {
